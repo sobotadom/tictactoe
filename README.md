@@ -5,4 +5,4 @@ tictactoe.py is the game itself, where the two players may pick a valid row,colu
 
 game_check.py is called to check if the current game board has a winner or not
 
-main.py allows the players to enter their names, paly multiple games and print the results of the games
+main.py allows the players play multiple games and print the results of the games
